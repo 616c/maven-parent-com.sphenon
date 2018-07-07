@@ -74,6 +74,12 @@
       <resource>
         <directory>src/generated/templates</directory>
       </resource>
+      <resource>
+        <directory>src/main/indices</directory>
+      </resource>
+      <resource>
+        <directory>src/generated/indices</directory>
+      </resource>
     </resources>
   </build>
   
